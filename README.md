@@ -1,4 +1,4 @@
-<img width="456" height="550" alt="Screenshot 2026-07-13 124657" src="https://github.com/user-attachments/assets/9c0748aa-d868-4d3a-8578-8aeb5736f80e" /># Supermarket Billing System
+Supermarket Billing System
 
 ## Description
 A console-based supermarket billing system developed in Python.
